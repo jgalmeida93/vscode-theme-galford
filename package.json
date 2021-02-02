@@ -1,0 +1,21 @@
+{
+    "name": "galford",
+    "displayName": "Galford",
+    "description": "A VSCode theme based on color scheme of JavaCafe01",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Galford",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Galford-color-theme.json"
+            }
+        ]
+    }
+}
